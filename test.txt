@@ -1,2 +1,3 @@
 this is hello world for git.
 Git is a free software.
+git not so good to learn.
