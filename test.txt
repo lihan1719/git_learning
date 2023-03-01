@@ -1,3 +1,2 @@
-this is hello world for git.
-Git is a free software.
-git not so good to learn.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
